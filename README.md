@@ -10,3 +10,6 @@ This is a simple guessing game where the user tries to guess a randomly chosen n
 1. Clone the repository or download the source code.
 2. Navigate to the project directory.
 3. Run the game using Python.
+
+   ```sh
+   python guessing_game.py
